@@ -14,4 +14,18 @@ Afin d'apporter une valeur ajoutée à ce projet, le Parc national souhaite trav
 Schéma au format [TableSchema](https://frictionlessdata.io/specs/table-schema) disponible [ici (insérer url)]().
 
 
-Nous tenons à remercier les membres du groupe de travail pour leur investissement dans l'élaboration de ce schéma.
+Nous tenons à remercier les membres du groupe de travail pour leur investissement dans l'élaboration de ce schéma :
+	• APIDAE
+    • Apitux / APRIL
+    • Auvergne-Rhone-Alpes Tourisme
+    • Conseil départemental des Cotes d’Armaure
+    • Conseil départemental des Hautes-Alpes
+    • Conseil départemental du Vaucluse
+    • DATAtourisme / AND Tourisme
+    • Etalabe / DINUM
+    • IGN
+    • Parc national des Écrins
+    • Parc national des Cévennes
+    • Parc naturel régional du Luberon
+    • Région Ligurie
+    • Région SUD

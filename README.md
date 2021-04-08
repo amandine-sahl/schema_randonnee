@@ -16,13 +16,13 @@ Schéma au format [TableSchema](https://frictionlessdata.io/specs/table-schema) 
 
 Nous tenons à remercier les membres du groupe de travail pour leur investissement dans l'élaboration de ce schéma :
 	• APIDAE
-    • Apitux / APRIL
-    • Auvergne-Rhone-Alpes Tourisme
+    • Apitux / April
+    • Auvergne-Rhône-Alpes Tourisme
     • Conseil départemental des Côtes d'Armor
     • Conseil départemental des Hautes-Alpes
     • Conseil départemental du Vaucluse
-    • DATAtourisme / AND Tourisme
-    • Etalabe / DINUM
+    • DATAtourisme / ADN Tourisme
+    • Etalab / DINUM
     • IGN
     • Parc national des Écrins
     • Parc national des Cévennes

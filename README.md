@@ -18,7 +18,7 @@ Nous tenons à remercier les membres du groupe de travail pour leur investisseme
 	• APIDAE
     • Apitux / APRIL
     • Auvergne-Rhone-Alpes Tourisme
-    • Conseil départemental des Cotes d’Armaure
+    • Conseil départemental des Côtes d'Armor
     • Conseil départemental des Hautes-Alpes
     • Conseil départemental du Vaucluse
     • DATAtourisme / AND Tourisme
